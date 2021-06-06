@@ -4,7 +4,10 @@
 
 参考如下语法
 
-`rollup src1/index.js -f es -o dist/bundle.js` // src1/index.js入口文件 - dist/bundle.js 输出文件
+`rollup src1/index.js -f es -o dist/bundle.js` 
+
+- src1/index.js入口文件
+- dist/bundle.js 输出文件
 
 ## 构建流程源码调试 - src2
 
